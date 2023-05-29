@@ -33,3 +33,9 @@
    - 기간 : 1주
    - 내용 : 환율 관련 네이버 크롤링 wordcloud 시긱화
    - 링크 :<https://github.com/YOUSUBEEN/ys_Project/blob/main/%ED%99%98%EC%9C%A8_%ED%81%AC%EB%A1%A4%EB%A7%81.pdf>
+
+- 파이썬 개인비서
+  - 언어 및 작업툴 : Python, Jupyter noetbook
+  - 기간 : 1주
+  - 내용 : 파이썬 크롤링을 통해 나만의 개인비서 만들기
+  - 링크 : <https://github.com/YOUSUBEEN/ys_Project/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B0%9C%EC%9D%B8%EB%B9%84%EC%84%9C.pdf>
