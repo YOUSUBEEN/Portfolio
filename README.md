@@ -26,3 +26,9 @@
   - 기간 : 2주 
   - 내용 : Python을 활용한 통계 분석 및 웹 서비스 구현
   - 링크 :<https://github.com/YOUSUBEEN/Store_Sales_Project>
+  
+ ## 3. 개인 프로젝트
+ - 환율 크롤링
+   - 언어 및 작업툴 : R, RStudio
+   - 기간 : 1주
+   - 내용 : 환율 관련 네이버 크롤링 wordcloud 시긱화
