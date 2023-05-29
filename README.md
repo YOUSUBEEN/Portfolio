@@ -32,3 +32,4 @@
    - 언어 및 작업툴 : R, RStudio
    - 기간 : 1주
    - 내용 : 환율 관련 네이버 크롤링 wordcloud 시긱화
+   - 링크 :<https://github.com/YOUSUBEEN/ys_Project/blob/main/%ED%99%98%EC%9C%A8_%ED%81%AC%EB%A1%A4%EB%A7%81.pdf>
