@@ -1,8 +1,8 @@
 ## 1. 기본 정보
 
 - 이름 : 유수빈
-- 이메일 : ysb8426@naver.com
-- 블로그 : https://usubeen.tistory.com/
+- 이메일 : ysb102323.gmail.com
+- 블로그 : https://yousubeen.github.io/
 
 ## 2. 팀 프로젝트
 
